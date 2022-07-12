@@ -16,7 +16,8 @@ public class App {
 	
 	public static void startScan(String scanConfig) {
 		try {
-			// startScan
+            		FileOutputStream fo = new FileOutputStream(new File("some/file"));
+       
 		} catch (Exception e) {
 			System.out.println("Exception while running scan");
 		}
