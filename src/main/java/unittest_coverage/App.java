@@ -13,5 +13,13 @@ public class App {
 			System.out.println("condition false");
 		}
 	}
+	
+	public static void startScan(String scanConfig) {
+		try {
+			// startScan
+		} catch (Exception e) {
+			System.out.println("Exception while running scan");
+		}
+	}
 }
 
