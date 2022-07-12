@@ -1,4 +1,8 @@
 package unittest_coverage;
+
+import java.io.FileOutputStream;
+import java.io.File;
+
 public class App {
 	
 	public static void main() {
